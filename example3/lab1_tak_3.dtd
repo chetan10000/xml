@@ -1,0 +1,12 @@
+
+<!ELEMENT memories (memory)*> 
+<!ELEMENT memory (media | subdate | donor?| subject+| location)* > 
+<!ATTLIST memory tapeid IDREF #REQUIRED > 
+<!ELEMENT subdate (#PCDATA) > 
+<!ELEMENT donor (#PCDATA) > 
+<!ELEMENT subject (#PCDATA) > 
+<!ELEMENT location (place|description) > 
+<!ELEMENT description (#PCDATA) > 
+<!ELEMENT place (#PCDATA) > 
+<!ELEMENT media EMPTY > 
+<!ATTLIST media mediaid ID #REQUIRED >

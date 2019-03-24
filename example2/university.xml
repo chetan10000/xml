@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<University>
+<name>Politechnika wroclawska</name>
+<history>it established in 1910</history>
+<description>Wroclaw University of science and Technology is a technological university in Wrocław Poland. With buildings and infrastructures dispersed throughout the city, 
+its main facilities are gathered at a central location near Plac Grunwaldzki, alongside the Oder river</description>
+
+<major level="bsc">
+<faculty id="1">
+<name>elctronics</name>
+</faculty>
+<faculty id="2">
+<name>computer science and management</name>
+</faculty>
+
+<faculty id="3">
+<name>Mechanical</name>
+</faculty>
+</major>
+<major level="msc">
+<faculty id="1">
+<name>Architecture</name>
+</faculty>
+<faculty id="2">
+<name>civil</name>
+</faculty>
+<faculty id="3">
+<name>chemistry</name>
+</faculty>
+<faculty id="4">
+<name>elctronics</name>
+</faculty>
+<faculty id="5">
+<name>elctrical</name>
+</faculty>
+<faculty id="6">
+<name>environmental engineering</name>
+</faculty>
+<faculty id="7">
+<name>computer science and management</name>
+</faculty>
+<faculty id="8">
+<name>mechanical and power engineering</name>
+</faculty><faculty id="9">
+<name>mechanical engineering</name>
+</faculty>
+<faculty id="10">
+<name>fundamental problems of technology</name>
+</faculty>
+<faculty id="11">
+<name>microsystem electronics and photonics</name>
+</faculty>
+<faculty id="12">
+<name>applied mathematics</name>
+</faculty>
+</major>
+</University>
